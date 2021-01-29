@@ -1,2 +1,5 @@
-# practicals-master
-Master repository for practical workshops for Data Science micro credential
+# Weekly Practical Notebooks
+
+This repository will contain your weekly notebooks for the Data Science micro-credential course. 
+
+
